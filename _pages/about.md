@@ -16,9 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-hello world.
+I am a third-year master student at Wuhan University, under the supervison of Prof. Wei Lu in <a href='http://39.103.203.133/'>Information Retrieval AND Knowledge Mining Laboratory</a>. In September 2024, I will commence my PhD studies at the Hong Kong Polytechnic University, under the guidance of Prof. Qing Li and Dr. Wenqi Fan.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes document AI, graph neural network and large language model. Please feel free to contact me by email if you are seeking related academic collaborations.
+
+<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
