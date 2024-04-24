@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master student at Wuhan University, under the supervison of Prof. Wei Lu in <a href='http://39.103.203.133/'>Information Retrieval AND Knowledge Mining Laboratory</a>. In September 2024, I will commence my PhD studies at the Hong Kong Polytechnic University, under the guidance of Prof. Qing Li and Dr. Wenqi Fan.
+I am a third-year master student at Wuhan University, under the supervison of Prof. Wei Lu and Dr. Yu in <a href='http://39.103.203.133/'>Information Retrieval AND Knowledge Mining Laboratory</a>. In September 2024, I will commence my PhD studies at the Hong Kong Polytechnic University, under the guidance of <a href='https://www4.comp.polyu.edu.hk/~csqli/'>Prof. Qing Li</a> and <a href='https://wenqifan03.github.io/'>Dr. Wenqi Fan</a>.
 
 My research interest includes document AI, graph neural network and large language model. Please feel free to contact me by email if you are seeking related academic collaborations.
 
@@ -24,10 +24,11 @@ My research interest includes document AI, graph neural network and large langua
 
 
 # 🔥 News
+- *2024.04*: &nbsp; Check our newest survey “*Graph Machine Learning in the Era of Large Language Models (LLMs)*”.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 
 # 📝 Publications 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,21 +39,28 @@ My research interest includes document AI, graph neural network and large langua
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Wenqi Fan, Shijie Wang, **Jiani Huang**, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, 2024
+- [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/abs/10.1145/3657285), **Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu, **JCR Q1, IF 16.6**, 2024
+- [An effective method for figures and tables detection in academic literature](https://www.sciencedirect.com/science/article/pii/S0306457323000237) Fengchang Yu, **Jiani Huang**, Wei Lu, **JCR Q1, IF 8.6**, 2023
+- [Analyzing international relations from British parliamentary debates](https://dl.acm.org/doi/abs/10.1145/3383583.3398565) Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu **ACM/IEEE JCDL**, 2020
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Graduate Entrance Scholarship (**top 10%**), *Wuhan University*
+- *2020.11* The National Bronze Award in The 11th Challenge Cup Competition, *Ministry of Education of China*
+- *2019.09* Outstanding Student First-Class Scholarship, *Wuhan University*
+- *2018.11* The Third Prize of the 10th National University Mathematics Competition, *Ministry of Education of China*
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06 (now)*, Mphil, Wuhan University. 
+- *2017.09 - 2021.06*, Undergraduate, Wuhan University. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- - *2020.05 - 2020.10*, [Lorem](https://github.com/), China. -->
+- *2023.04 - 2023.10*, PingAn Technology , Shenzhen.
+- *2020.05 - 2020.10*, NetEase, Beijing.
