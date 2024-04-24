@@ -44,7 +44,7 @@ My research interest includes document AI, graph neural network and large langua
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Wenqi Fan, Shijie Wang, **Jiani Huang**, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, 2024
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/abs/10.1145/3657285), **Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu, **JCR Q1, IF 16.6**, 2024
 - [An effective method for figures and tables detection in academic literature](https://www.sciencedirect.com/science/article/pii/S0306457323000237) Fengchang Yu, **Jiani Huang**, Wei Lu, **JCR Q1, IF 8.6**, 2023
-- [Analyzing international relations from British parliamentary debates](https://dl.acm.org/doi/abs/10.1145/3383583.3398565) Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu **ACM/IEEE JCDL**, 2020
+- [Analyzing international relations from British parliamentary debates](https://dl.acm.org/doi/abs/10.1145/3383583.3398565) Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu, **ACM/IEEE JCDL**, 2020
 
 # 🎖 Honors and Awards
 - *2021.09* Graduate Entrance Scholarship (**top 10%**), *Wuhan University*
