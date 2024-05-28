@@ -24,22 +24,23 @@ My research interest includes document AI, graph neural network and large langua
 
 
 # 🔥 News
+- *2024.05*: &nbsp; Check our newest paper “*Learning Geospatial Region Embedding with Heterogeneous Graph*”.
 - *2024.04*: &nbsp; Check our newest survey “*Graph Machine Learning in the Era of Large Language Models (LLMs)*”.
 - *2024.04*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
 
 # 📝 Publications 
-<!-- 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Learning Geospatial Region Embedding with Heterogeneous Graph](https://arxiv.org/pdf/2405.14135)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiani HUANG**, Xingchen Zou, Xixuan Hao, Yuhao Yang, Haomin Wen, Yibo Yan, Chao Huang, Yuxuan Liang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
-</div> -->
+</div>
 
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Wenqi Fan, Shijie Wang, **Jiani Huang**, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, 2024
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/abs/10.1145/3657285), **Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu, **JCR Q1, IF 16.6**, 2024
