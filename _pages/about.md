@@ -39,8 +39,8 @@ My research interest includes document AI, graph neural network and large langua
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-</div>
-</div> -->
+<!-- </div>
+</div> --> -->
 
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Wenqi Fan, Shijie Wang, **Jiani Huang**, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, 2024
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/abs/10.1145/3657285), **Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu, **JCR Q1, IF 16.6**, 2024
