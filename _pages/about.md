@@ -16,36 +16,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master student at Wuhan University, under the supervison of Prof. Wei Lu and Dr. Yu in <a href='http://39.103.203.133/'>Information Retrieval AND Knowledge Mining Laboratory</a>. In September 2024, I will commence my PhD studies at the Hong Kong Polytechnic University, under the guidance of <a href='https://www4.comp.polyu.edu.hk/~csqli/'>Prof. Qing Li</a> and <a href='https://wenqifan03.github.io/'>Dr. Wenqi Fan</a>.
+I am a first-year PhD student at the Hong Kong Polytechnic University, under the supervison of <a href='https://www4.comp.polyu.edu.hk/~csqli/'>Prof. Qing Li</a> and <a href='https://wenqifan03.github.io/'>Dr. Wenqi Fan</a>. I was a mphil at <a href='http://39.103.203.133/'>Information Retrieval AND Knowledge Mining Laboratory</a> under the supervision by <a href='https://sim.whu.edu.cn/info/1631/13983.htm'>Prof. Wei Lu</a> and <a href='https://simjwz.whu.edu.cn/info/1391/11051.htm'>Dr. Yu</a>. 
 
-My research interest includes document AI, graph neural network and large language model. Please feel free to contact me by email if you are seeking related academic collaborations.
+My research interest includes recommender system and large language model. Please feel free to contact me by email if you are seeking related academic collaborations.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=gPBckEwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-<!-- - *2024.05*: &nbsp; Check our newest paper “*Learning Geospatial Region Embedding with Heterogeneous Graph*”. -->
-- *2024.04*: &nbsp; Check our newest survey “*Graph Machine Learning in the Era of Large Language Models (LLMs)*”.
-- *2024.04*: &nbsp;🎉🎉 Our paper is accepted by ACM Computing Surveys. 
+
+- *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>“*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*”</a>.
+- *2025.03*: &nbsp; Our survey paper on “*Graph Machine Learning in the Era of Large Language Models (LLMs)*” has been accepted by ACM TIST.
+- *2024.04*: &nbsp; Check our newest survey <a href='https://arxiv.org/abs/2404.14928'>“*Graph Machine Learning in the Era of Large Language Models (LLMs)*”</a>.
+- *2024.04*: &nbsp;🎉🎉 Our paper has been accepted by ACM Computing Surveys. 
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning Geospatial Region Embedding with Heterogeneous Graph](https://arxiv.org/pdf/2405.14135)
-
-**Jiani HUANG**, Xingchen Zou, Xixuan Hao, Yuhao Yang, Haomin Wen, Yibo Yan, Chao Huang, Yuxuan Liang
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-<!-- </div>
-</div> -->
-
+- **Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs** <br> 
+  **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li<br>
+  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2503.09382) [![github](../assets/github-icon.png)](https://github.com/RecBench/RecBench)<br>
+  *Preprint.*
 - [Graph Machine Learning in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2404.14928), Wenqi Fan, Shijie Wang, **Jiani Huang**, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li, 2024
 - [From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures](https://dl.acm.org/doi/abs/10.1145/3657285), **Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu, **JCR Q1, IF 16.6**, 2024
-- [An effective method for figures and tables detection in academic literature](https://www.sciencedirect.com/science/article/pii/S0306457323000237) Fengchang Yu, **Jiani Huang**, Wei Lu, **JCR Q1, IF 8.6**, 2023
-- [Analyzing international relations from British parliamentary debates](https://dl.acm.org/doi/abs/10.1145/3383583.3398565) Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu, **ACM/IEEE JCDL**, 2020
+- [An effective method for figures and tables detection in academic literature](https://www.sciencedirect.com/science/article/pii/S0306457323000237), Fengchang Yu, **Jiani Huang**, Wei Lu, **JCR Q1, IF 8.6**, 2023
+- [Analyzing international relations from British parliamentary debates](https://dl.acm.org/doi/abs/10.1145/3383583.3398565), Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu, **ACM/IEEE JCDL**, 2020
 
 # 🎖 Honors and Awards
 - *2021.09* Graduate Entrance Scholarship (**top 10%**), *Wuhan University*
@@ -54,7 +48,7 @@ My research interest includes document AI, graph neural network and large langua
 - *2018.11* The Third Prize of the 10th National University Mathematics Competition, *Ministry of Education of China*
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Mphil, Wuhan University. 
+- *2021.09 - 2024.06*, Mphil, Wuhan University. 
 - *2017.09 - 2021.06*, Undergraduate, Wuhan University. 
 
 <!-- # 💬 Invited Talks
