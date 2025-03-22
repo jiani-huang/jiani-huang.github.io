@@ -35,7 +35,7 @@ My research interest includes recommender system and large language model. Pleas
 - **Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs** <br> 
   **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li<br>
   *Preprint.*<br>
-  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2503.09382) [![github](../assets/github-icon.png)](https://github.com/RecBench/RecBench)<br>
+  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2503.09382) [![github](../assets/github-icon.png)](https://github.com/jiani-huang/RecBench)<br>
 
 
 - **Graph Machine Learning in the Era of Large Language Models (LLMs)** <br>
