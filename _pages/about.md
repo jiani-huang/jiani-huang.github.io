@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at the Hong Kong Polytechnic University, under the supervison of <a href='https://www4.comp.polyu.edu.hk/~csqli/'>Prof. Qing Li</a>. I was a mphil at <a href='http://39.103.203.133/'>Information Retrieval and Knowledge Mining Laboratory</a> under the supervision by <a href='https://sim.whu.edu.cn/info/1631/13983.htm'>Prof. Wei Lu</a> and <a href='https://simjwz.whu.edu.cn/info/1391/11051.htm'>Dr. Yu</a>. 
+I am a first-year PhD student at the Hong Kong Polytechnic University, under the supervison of <a href='https://www4.comp.polyu.edu.hk/~csqli/'>Prof. Qing Li</a>. I was a mphil at <a href='http://39.103.203.133/'>Information Retrieval and Knowledge Mining Laboratory</a> under the supervision by <a href='https://sim.whu.edu.cn/info/1631/13983.htm'>Prof. Wei Lu</a> and <a href='https://simjwz.whu.edu.cn/info/1391/11051.htm'>Dr. Yu</a>.
 
 My research interest includes recommender system and large language model. Please feel free to contact me by email if you are seeking related academic collaborations.
 
@@ -26,7 +26,8 @@ My research interest includes recommender system and large language model. Pleas
 # 🔥 News
 
 - *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>“*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*”</a>.
-- *2025.03*: &nbsp; Our survey paper on “*Graph Machine Learning in the Era of Large Language Models (LLMs)*” has been accepted by ACM TIST.
+- *2025.03*: &nbsp; Our survey paper on "*Graph Machine Learning in the Era of Large Language Models (LLMs)*" has been accepted by ACM TIST.
+<!-- - *2024.04*: &nbsp; Check our newest survey <a href='https://arxiv.org/abs/2404.14928'>"*Graph Machine Learning in the Era of Large Language Models (LLMs)*"</a>. -->
 - *2024.04*: &nbsp;🎉🎉 Our paper has been accepted by ACM Computing Surveys. 
 
 # 📝 Publications 
