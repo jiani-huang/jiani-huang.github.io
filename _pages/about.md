@@ -25,8 +25,12 @@ My research interest includes recommender system and large language model. Pleas
 
 # 🔥 News
 
-- *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>“*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*”</a>.
-- *2025.03*: &nbsp; Our survey paper on "*Graph Machine Learning in the Era of Large Language Models (LLMs)*" has been accepted by ACM TIST.
+- *2025.10*: &nbsp; Our benchmark paper “*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*” has been accepted by **WSDM 2026**.
+
+- *2025.10*: &nbsp; Check out our paper on <a href='https://arxiv.org/pdf/2510.14629'>“*MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs*”</a>.
+
+- *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>"*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*"</a>.
+- *2025.03*: &nbsp; Our survey paper on "*Graph Machine Learning in the Era of Large Language Models (LLMs)*" has been accepted by **ACM TIST**.
 <!-- - *2024.04*: &nbsp; Check our newest survey <a href='https://arxiv.org/abs/2404.14928'>"*Graph Machine Learning in the Era of Large Language Models (LLMs)*"</a>. -->
 - *2024.04*: &nbsp;🎉🎉 Our paper has been accepted by ACM Computing Surveys. 
 
