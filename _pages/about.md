@@ -39,10 +39,10 @@ My research interest includes recommender system and large language model. Pleas
 # 📝 Publications 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/papers/ReRec.png' alt='ReRec publication teaser'>
-  </div>
   <div class='paper-box-text'>
+    <div class='paper-box-image'>
+      <img src='../images/papers/ReRec.png' alt='ReRec publication teaser'>
+    </div>
     <div class='paper-title'>ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</div>
     <div class='paper-authors'><strong>Jiani Huang</strong>, Shijie Wang, Liangbo Ning, Wenqi Fan, Qing Li</div>
     <div class='paper-venue'>ACL 2026</div>
@@ -55,10 +55,10 @@ My research interest includes recommender system and large language model. Pleas
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/papers/recbench.png' alt='RecBench publication teaser'>
-  </div>
   <div class='paper-box-text'>
+    <div class='paper-box-image'>
+      <img src='../images/papers/recbench.png' alt='RecBench publication teaser'>
+    </div>
     <div class='paper-title'>Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</div>
     <div class='paper-authors'><strong>Jiani Huang</strong>, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li</div>
     <div class='paper-venue'>WSDM 2026</div>
@@ -71,10 +71,10 @@ My research interest includes recommender system and large language model. Pleas
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/papers/graph-llm.png' alt='Graph LLM survey teaser'>
-  </div>
   <div class='paper-box-text'>
+    <div class='paper-box-image'>
+      <img src='../images/papers/graph-llm.png' alt='Graph LLM survey teaser'>
+    </div>
     <div class='paper-title'>Graph Machine Learning in the Era of Large Language Models (LLMs)</div>
     <div class='paper-authors'>Shijie Wang*, <strong>Jiani Huang*</strong>, Wenqi Fan, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li</div>
     <div class='paper-venue'>ACM Transactions on Intelligent Systems and Technology</div>
@@ -86,10 +86,10 @@ My research interest includes recommender system and large language model. Pleas
 </div>
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='../images/papers/figure-table-detection.png' alt='Figure and table detection publication teaser'>
-  </div>
   <div class='paper-box-text'>
+    <div class='paper-box-image'>
+      <img src='../images/papers/figure-table-detection.png' alt='Figure and table detection publication teaser'>
+    </div>
     <div class='paper-title'>An effective method for figures and tables detection in academic literature</div>
     <div class='paper-authors'>Fengchang Yu, <strong>Jiani Huang</strong>, Wei Lu</div>
     <div class='paper-venue'>Information Processing &amp; Management</div>
