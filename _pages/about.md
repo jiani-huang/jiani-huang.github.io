@@ -88,6 +88,21 @@ My research interest includes recommender system and large language model. Pleas
 <div class='paper-box'>
   <div class='paper-box-text'>
     <div class='paper-box-image'>
+      <img src='../images/papers/tables-figures-survey.png' alt='Figure and table survey publication teaser'>
+    </div>
+    <div class='paper-title'>From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures</div>
+    <div class='paper-authors'><strong>Jiani Huang</strong>, Haihua Chen, Fengchang Yu, Wei Lu</div>
+    <div class='paper-venue'>ACM Computing Surveys</div>
+    <div class='paper-summary'>Tables and figures are usually used to present information in a structured and visual way in scientific documents. Understanding the tables and figures in scientific documents is significant for a series of downstream tasks, such as academic search, scientific knowledge graphs, and so on. Existing studies mainly focus on detecting figures and tables from scientific documents, interpreting their semantics, and integrating them into downstream tasks. However, a systematic and comprehensive literature review on the mining and application of tables and figures in academic papers is still missing. In this article, we introduce the research framework and the whole pipeline for understanding tables and figures, including detection, structural analysis, interpretation, and application. We deliver a thorough analysis of benchmark datasets, recent techniques, and their pros and cons. Additionally, a quantitative analysis of the effectiveness of different models on popular benchmarks is presented. We further outline several important applications that exploit the semantics of scientific tables and figures. Finally, we highlight the challenges and some potential directions for future research. We believe this is the first comprehensive survey in understanding scientific tables and figures that covers the landscape from detection to application.</div>
+    <div class='paper-links'>
+      <a href='https://dl.acm.org/doi/pdf/10.1145/3657285'>Paper</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-text'>
+    <div class='paper-box-image'>
       <img src='../images/papers/figure-table-detection.png' alt='Figure and table detection publication teaser'>
     </div>
     <div class='paper-title'>An effective method for figures and tables detection in academic literature</div>
