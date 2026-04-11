@@ -29,45 +29,76 @@ My research interest includes recommender system and large language model. Pleas
 
 - *2025.10*: &nbsp; Our benchmark paper “*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*” has been accepted by **WSDM 2026**.
 
-- *2025.10*: &nbsp; Check out our paper on <a href='https://arxiv.org/pdf/2510.14629'>“*MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs*”</a>.
+<!-- - *2025.10*: &nbsp; Check out our paper on <a href='https://arxiv.org/pdf/2510.14629'>“*MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs*”</a>.
 
-- *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>"*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*"</a>.
+- *2025.03*: &nbsp; Check out our paper on <a href='https://arxiv.org/abs/2503.09382'>"*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*"</a>. -->
 - *2025.03*: &nbsp; Our survey paper on "*Graph Machine Learning in the Era of Large Language Models (LLMs)*" has been accepted by **ACM TIST**.
 <!-- - *2024.04*: &nbsp; Check our newest survey <a href='https://arxiv.org/abs/2404.14928'>"*Graph Machine Learning in the Era of Large Language Models (LLMs)*"</a>. -->
 - *2024.04*: &nbsp;🎉🎉 Our paper has been accepted by ACM Computing Surveys. 
 
 # 📝 Publications 
 
-- **ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning** <br>
-  **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Qing Li<br>
-  *ACL 2026*<br>
-  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2604.07851) [![github](../assets/github-icon.png)](https://github.com/jiani-huang/ReRec)<br>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/papers/ReRec.png' alt='ReRec publication teaser'>
+  </div>
+  <div class='paper-box-text'>
+    <div class='paper-title'>ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</div>
+    <div class='paper-authors'><strong>Jiani Huang</strong>, Shijie Wang, Liangbo Ning, Wenqi Fan, Qing Li</div>
+    <div class='paper-venue'>ACL 2026</div>
+    <div class='paper-summary'>We introduce ReRec, a reasoning-augmented recommendation assistant trained with reinforcement fine-tuning to better align multi-step recommendation decisions with user preferences and improve recommendation quality in conversational settings.</div>
+    <div class='paper-links'>
+      <a href='https://arxiv.org/abs/2604.07851'>Paper</a>
+      <a href='https://github.com/jiani-huang/ReRec'>Code</a>
+    </div>
+  </div>
+</div>
 
-- **Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs** <br> 
-  **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li<br>
-  *WSDM 2026*<br>
-  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2503.09382) [![github](../assets/github-icon.png)](https://github.com/jiani-huang/RecBench)<br>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/papers/recbench.png' alt='RecBench publication teaser'>
+  </div>
+  <div class='paper-box-text'>
+    <div class='paper-title'>Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</div>
+    <div class='paper-authors'><strong>Jiani Huang</strong>, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li</div>
+    <div class='paper-venue'>WSDM 2026</div>
+    <div class='paper-summary'>This work builds a benchmark for personalized recommendation assistants with LLMs, covering realistic user requests, item candidates, and evaluation dimensions that expose where current models still struggle with preference understanding and recommendation reasoning.</div>
+    <div class='paper-links'>
+      <a href='https://arxiv.org/abs/2503.09382'>Paper</a>
+      <a href='https://github.com/jiani-huang/RecBench'>Code</a>
+    </div>
+  </div>
+</div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/papers/graph-llm.png' alt='Graph LLM survey teaser'>
+  </div>
+  <div class='paper-box-text'>
+    <div class='paper-title'>Graph Machine Learning in the Era of Large Language Models (LLMs)</div>
+    <div class='paper-authors'>Shijie Wang*, <strong>Jiani Huang*</strong>, Wenqi Fan, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li</div>
+    <div class='paper-venue'>ACM Transactions on Intelligent Systems and Technology</div>
+    <div class='paper-summary'>This survey reviews the fast-growing intersection between graph machine learning and large language models, summarizing how LLMs enhance graph tasks, how graph techniques support LLMs, and which benchmarks and open problems matter next.</div>
+    <div class='paper-links'>
+      <a href='https://arxiv.org/abs/2404.14928'>Paper</a>
+    </div>
+  </div>
+</div>
 
-- **Graph Machine Learning in the Era of Large Language Models (LLMs)** <br>
-Shijie Wang\*, **Jiani Huang\***, Wenqi Fan, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing Li<br>
-*ACM Transactions on Intelligent Systems and Technology*<br>
-[![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2404.14928)<br>
-
-- **From Detection to Application: Recent Advances in Understanding Scientific Tables and Figures** <br>
-**Jiani Huang**, Haihua Chen, Fengchang Yu, Wei Lu<br>
-*ACM Computing Surveys*<br>
-[![PDF](../assets/pdf-icon.png)](https://dl.acm.org/doi/abs/10.1145/3657285)<br>
-
-- **An effective method for figures and tables detection in academic literature** <br>
-Fengchang Yu, **Jiani Huang**, Wei Lu<br>
-*Information Processing & Management*<br>
-[![PDF](../assets/pdf-icon.png)](https://www.sciencedirect.com/science/article/pii/S0306457323000237)<br>
-
-- **Analyzing international relations from British parliamentary debates** <br>
-Junling Wang, Yuehan Zhang,**Jiani Huang**, Jiayu Shen, Yiyang Wang, Jiamin Wang, Jiming Hu, Wei Lu<br>
-*ACM/IEEE JCDL Conference (2020)*<br>
-[![PDF](../assets/pdf-icon.png)](https://dl.acm.org/doi/abs/10.1145/3383583.3398565)<br>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/papers/figure-table-detection.png' alt='Figure and table detection publication teaser'>
+  </div>
+  <div class='paper-box-text'>
+    <div class='paper-title'>An effective method for figures and tables detection in academic literature</div>
+    <div class='paper-authors'>Fengchang Yu, <strong>Jiani Huang</strong>, Wei Lu</div>
+    <div class='paper-venue'>Information Processing &amp; Management</div>
+    <div class='paper-summary'>We propose a practical method for detecting figures and tables in academic documents, combining page layout and visual cues to improve extraction accuracy across complex scholarly article formats.</div>
+    <div class='paper-links'>
+      <a href='https://www.sciencedirect.com/science/article/pii/S0306457323000237'>Paper</a>
+    </div>
+  </div>
+</div>
 
 
 # 🎖 Honors and Awards
