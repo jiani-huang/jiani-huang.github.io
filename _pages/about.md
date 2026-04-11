@@ -25,6 +25,8 @@ My research interest includes recommender system and large language model. Pleas
 
 # 🔥 News
 
+- *2026.04*: &nbsp; Our paper “*ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning*” has been accepted by **ACL 2026**.
+
 - *2025.10*: &nbsp; Our benchmark paper “*Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs*” has been accepted by **WSDM 2026**.
 
 - *2025.10*: &nbsp; Check out our paper on <a href='https://arxiv.org/pdf/2510.14629'>“*MR.Rec: Synergizing Memory and Reasoning for Personalized Recommendation Assistant with LLMs*”</a>.
@@ -36,9 +38,14 @@ My research interest includes recommender system and large language model. Pleas
 
 # 📝 Publications 
 
+- **ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning** <br>
+  **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Qing Li<br>
+  *ACL 2026*<br>
+  [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2604.07851) [![github](../assets/github-icon.png)](https://github.com/jiani-huang/ReRec)<br>
+
 - **Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs** <br> 
   **Jiani Huang**, Shijie Wang, Liangbo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li<br>
-  *Preprint.*<br>
+  *WSDM 2026*<br>
   [![PDF](../assets/pdf-icon.png)](https://arxiv.org/abs/2503.09382) [![github](../assets/github-icon.png)](https://github.com/jiani-huang/RecBench)<br>
 
 
